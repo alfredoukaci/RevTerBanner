@@ -1,8 +1,9 @@
 # RevTerBanner
-make your banner blink Best banner script written in bash to avoid affecting performance of your terminal
+make your banner change color and theme 
+Best banner script written in bash to avoid affecting performance of your terminal
 # best banner script for terminal 2020
 # always better and different
-
+# fully customizable ,, print what ever you want in different colors to the screen
 better than the standard toilet,figlet or cowsay banner softwares
 fully customizable since it's written in bash script
 you can add you name or your sentence to expressions= variable to see it in the banner
