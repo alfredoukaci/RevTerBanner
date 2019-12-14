@@ -7,7 +7,10 @@ better than the standard toilet,figlet or cowsay banner softwares
 fully customizable since it's written in bash script
 you can add you name or your sentence to expressions= variable to see it in the banner
 it's fully dynamic with an infinite number of themes since it chooses COLORS AND TEXT TO SHOW randomly .
+![Screenshot at 2019-12-14 18-13-22](https://user-images.githubusercontent.com/29919378/70852082-95ca8e00-1e9d-11ea-82e3-8c8a0cdd1711.png)
+![Screenshot at 2019-12-14 16-40-49](https://user-images.githubusercontent.com/29919378/70852114-f35eda80-1e9d-11ea-9ed2-ebc05f1af0ec.png)
 
+![Screenshot at 2019-12-14 18-18-53](https://user-images.githubusercontent.com/29919378/70852138-34ef8580-1e9e-11ea-8a7c-1ae894943362.png)
 i started this project four hours ago , i didn't intend to but i was looking for a way to add a banner to my terminal i didn't find any good stuuff so i decided to write this script rapidely
 i will update it as soon as possible to make it more beautiful 
 very easy to install 
